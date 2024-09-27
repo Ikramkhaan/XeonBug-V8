@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "923189063603"
+global.ownername = "𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "Pakistan, Peshawar, Tehkal"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '923189063603'  //creator number
+global.ownername = '𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮' //owner name
+global.botname = '𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮Bug-V8' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.packname = 'HEART-HACKER ❤️'
+global.author = '𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮 ❤️'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Global Bot"
+global.wm = "𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮 Bot"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
@@ -35,13 +35,13 @@ global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -59,10 +59,10 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by  𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮 only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by 𝛪𝛫𝑅𝛥𝛭-𝛫𝛨𝛥𝛮 only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
